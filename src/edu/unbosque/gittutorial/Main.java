@@ -2,6 +2,6 @@ package edu.unbosque.gittutorial;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello world! Estamos en el curso de Git y Github");
     }
 }
